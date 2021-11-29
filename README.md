@@ -1,7 +1,7 @@
 # Zendesk Coding Challenge 2021
 
 ## About
-
+Welcome to my Ticket Viewer Program !
 This is a static web application, that displays tickets for a company connecting to Zendesk API and showing more details if requested. This static web-application is made using python programming language and flask web-framework. 
 
 ## Installations
@@ -16,7 +16,9 @@ This is a static web application, that displays tickets for a company connecting
 2. Open this folder in your terminal/cmd prompt and run the following code:
 ```
 $ python app.py
-or
+```
+       or 
+```
 $ Flask run
 ```
 3. You should see a localhost server running, copy this address into any browser to begin.
