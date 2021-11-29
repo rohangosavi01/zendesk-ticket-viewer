@@ -13,6 +13,10 @@ This is a static web application, that displays tickets for a company connecting
 
 1. Download this repository to your local machine. 
 
+```
+https://github.com/rohangosavi01/zendesk-ticket-viewer.git
+```
+
 2. Open this folder in your terminal/cmd prompt and run the following code:
 ```
 $ python app.py
