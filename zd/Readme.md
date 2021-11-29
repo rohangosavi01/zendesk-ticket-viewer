@@ -23,7 +23,6 @@ or
 
 ```
 $ Flask run
-
 ```
 
 ### File Description and Error Handling
@@ -43,7 +42,7 @@ I am Rohan Gosavi, sophmore at Texas Tech and have experience in python programm
 ### Refrences and Learning Outcomes
 
 - Learning Outcomes 
-    - Learned more about API Handeling and implementing them online. 
+    - Learned more about API requests, how to parse JSON data and use it effectively. 
 
 - Zendesk API Documentation    
     - https://developer.zendesk.com/api-reference/
