@@ -1,31 +1,30 @@
 # Zendesk Coding Challenge 2021 
 
+### About Me 
+
+I am Rohan Gosavi, sophmore at Texas Tech and have experience in python programming language, flask web framework as I have experince in it. I struggled in the pagination process, but was able to complete everything else described the project.
+
 This static web application is made using python programming language and flask web framework
 
-## Prerequisite Installations
+## Installations
 
-- [Python](https://www.python.org/downloads/) v3.8.8 or greater
+- [Python](https://www.python.org/downloads/) v3.8.0 or greater
 - Flask framework
 
-## Running this on your server (MacOS/Windows)
+## Running this on your server
 
 1. Download the repository to your local machine with the following code.
 
-```
-$ git clone https://github.com/rohangosavi01/zendesk-ticket-viewer
-```
-
-2. Open the folder ZD on your terminal and run the following code:
+2. Open this folder in your terminal/cmd prompt and run the following code:
 ```
 $ python app.py 
 ```
-or 
+ or 
 
 ```
 $ Flask run
 ```
-
-### File Description and Error Handling
+### Descriptions 
 
 - ```app.py``` : Program entry point
 - ```authentication.py``` : Makes requests to the Zendesk API and returns tickets in Python Dictionary Format
@@ -34,10 +33,6 @@ $ Flask run
 
 - If the API is not called correctly, a text is displayed to users. 
 - Error Page 404 is added and link back to home so users can return to main menu. 
-
-### About Me 
-
-I am Rohan Gosavi, sophmore at Texas Tech and have experience in python programming language, flask web framework as I have experince in it. I struggled in the pagination process, but was able to complete everything else described the project.
 
 ### Refrences and Learning Outcomes
 
