@@ -21,7 +21,7 @@ https://github.com/rohangosavi01/zendesk-ticket-viewer.git
 ```
 $ python app.py
 ```
-       or 
+or 
 ```
 $ Flask run
 ```
