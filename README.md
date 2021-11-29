@@ -7,7 +7,7 @@ This is a static web application, that displays tickets for a company connecting
 ## Installations
 
 - [Python](https://www.python.org/downloads/) v3.8.0 or greater
-- [Flask](https://flask.palletsprojects.com/en/2.0.x/installation/#install-flask) (Python Version 3.7 or greate)
+- [Flask](https://flask.palletsprojects.com/en/2.0.x/installation/#install-flask) (Python Version 3.7 or greater)
 
 ## Running this on your server
 
@@ -15,7 +15,9 @@ This is a static web application, that displays tickets for a company connecting
 
 2. Open this folder in your terminal/cmd prompt and run the following code:
 ```
-$ python app.py OR $ Flask run
+$ python app.py
+or
+$ Flask run
 ```
 3. You should see a localhost server running, copy this address into any browser to begin.
 
