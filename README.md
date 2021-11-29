@@ -1,20 +1,21 @@
 # Zendesk Coding Challenge 2021
 
 ## About
+
 Welcome to my Ticket Viewer Program !
-This is a static web application, that displays tickets for a company connecting to Zendesk API and showing more details if requested. This static web-application is made using python programming language and flask web-framework. 
+This is a static web-application, that displays tickets for a company connecting to Zendesk API and showing more details if requested. This static web-application is made using python programming language and flask web-framework. 
 
 ## Installations
 
 - [Python](https://www.python.org/downloads/) v3.8.0 or greater
 - [Flask](https://flask.palletsprojects.com/en/2.0.x/installation/#install-flask) (Python Version 3.7 or greater)
 
-## Running this on your server
+## Running on your local machine
 
 1. Download this repository to your local machine. 
 
 ```
-https://github.com/rohangosavi01/zendesk-ticket-viewer.git
+$ git clone https://github.com/rohangosavi01/zendesk-ticket-viewer
 ```
 
 2. Open this folder in your terminal/cmd prompt and run the following code:
