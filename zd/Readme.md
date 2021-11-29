@@ -4,7 +4,7 @@ This static web application is made using python programming language and flask 
 
 ## Prerequisite Installations
 
-- [Python3.8.8](https://www.python.org/downloads/) v3.8.8 or greater
+- [Python](https://www.python.org/downloads/) v3.8.8 or greater
 - Flask framwork
 
 ## Running this on your server (MacOS/Windows)
