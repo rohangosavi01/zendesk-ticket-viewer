@@ -61,6 +61,15 @@ $ Flask run
 
 ## Photos: 
 
-<img width="902" alt="Screen Shot 2021-11-29 at 03 19 40" src="https://user-images.githubusercontent.com/64428362/143846154-182f726d-d76c-4261-ac68-57938c52c11c.png">
-<img width="902" alt="Screen Shot 2021-11-29 at 03 19 52" src="https://user-images.githubusercontent.com/64428362/143846159-dadb5ac0-67b5-474e-b5da-4cdedd26dfc1.png">
-<img width="902" alt="Screen Shot 2021-11-29 at 03 20 50" src="https://user-images.githubusercontent.com/64428362/143846160-ba8ee83c-21ff-4bf0-945e-eebc81cde3fa.png">
+<img width="1840" alt="Screen Shot 2021-11-29 at 04 43 17 1" src="https://user-images.githubusercontent.com/64428362/143854180-0e8b8388-159b-4fb7-a26e-a7b64244b856.png">
+
+<img width="1840" alt="Screen Shot 2021-11-29 at 04 43 26" src="https://user-images.githubusercontent.com/64428362/143854221-810c6919-0b82-4882-9c42-950804c65cf4.png">
+
+<img width="1840" alt="Screen Shot 2021-11-29 at 04 43 45" src="https://user-images.githubusercontent.com/64428362/143854262-a3855af8-f467-4adb-bff2-129ab5a482e0.png">
+
+<img width="976" alt="Screen Shot 2021-11-29 at 04 44 01" src="https://user-images.githubusercontent.com/64428362/143854289-49b00b6a-a863-4889-854d-75700e4ae056.png">
+
+
+
+
+
