@@ -29,7 +29,7 @@ $ Flask run
 2. The 'view' button directs to the ticket specific information with more fields. 
 3. There are 'Previous Page' and 'Next Page' buttons that help you navigate through 25 pages per item. 
 4. More details can be added as needed with requests made to the python dictionary. 
-5. Error Handeling - 
+5. Error Handeling =>
    - Invalid API Call => The program displays an error message if there is a problem with API Call, or the response is not as expected. 
    - 404 Page Not Found => If the user is directed to a page which is not in the server, a 404-Error Page is added to help user navigate back to homepage.
 
