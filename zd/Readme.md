@@ -18,7 +18,6 @@ $ git clone https://github.com/rohangosavi01/zendesk-ticket-viewer
 2. Open the folder ZD on your terminal and run the following code:
 ```
 $ python app.py 
-
 ```
 or 
 
