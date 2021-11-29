@@ -58,3 +58,9 @@ $ Flask run
 - Python & Flask 
     - https://flask.palletsprojects.com/en/2.0.x/tutorial/index.html
     - https://www.youtube.com/watch?v=Z1RJmh_OqeA&t=1917s
+
+## Photos: 
+
+<img width="902" alt="Screen Shot 2021-11-29 at 03 19 40" src="https://user-images.githubusercontent.com/64428362/143846154-182f726d-d76c-4261-ac68-57938c52c11c.png">
+<img width="902" alt="Screen Shot 2021-11-29 at 03 19 52" src="https://user-images.githubusercontent.com/64428362/143846159-dadb5ac0-67b5-474e-b5da-4cdedd26dfc1.png">
+<img width="902" alt="Screen Shot 2021-11-29 at 03 20 50" src="https://user-images.githubusercontent.com/64428362/143846160-ba8ee83c-21ff-4bf0-945e-eebc81cde3fa.png">
