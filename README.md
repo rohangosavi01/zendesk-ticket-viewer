@@ -1,4 +1,4 @@
-# Zendesk Coding Challenge 2021
+# Zendesk Ticket Viewer
 
 ## About
 
