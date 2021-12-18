@@ -1,9 +1,9 @@
 import requests
 
 # Importing json File from Zendesk API to read ticket information
-url = 'https://zccrgcodingchallenge.zendesk.com/api/v2/tickets.json'
-user = 'rohangosavi01@gmail.com' + '/token'
-token = 'xk2sED2YCl8hVtRMG37itSVnCBLUNjxljJeBx9i3'
+url = ''
+user = '' + '/token'
+token = '' 
 
 def authenticate_user(url, user, token):
 
